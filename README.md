@@ -45,12 +45,6 @@ this project demonstrates core skills in python and numpy through three parts:
    python task3_data_analysis.py
    ```
 
-4. or run all tasks together
-
-   ```bash
-   python main.py
-   ```
-
 ---
 
 ##  summary of findings (task 3)
@@ -61,6 +55,7 @@ this project demonstrates core skills in python and numpy through three parts:
 * about 25 % of users met all daily fitness goals on more than 80 % of days.
 * steps and active minutes showed strong positive correlation (~0.9).
 * weekend activity was slightly higher than weekday averages.
+
 
 
 

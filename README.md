@@ -1,12 +1,11 @@
 # project 1 – python & numpy fundamentals  
 
 **course:** introduction to data science with python  
-**student:** teona berozashvili  
-**student id:** [add your kiu id here]  
+**student:** teona berozashvili    
 
 ---
 
-## 📘 project description  
+##  project description  
 this project demonstrates core skills in python and numpy through three parts:  
 
 1. **task 1:** python data structures & control flow  
@@ -61,6 +60,7 @@ this project demonstrates core skills in python and numpy through three parts:
 * about 25 % of users met all daily fitness goals on more than 80 % of days.
 * steps and active minutes showed strong positive correlation (~0.9).
 * weekend activity was slightly higher than weekday averages.
+
 
 
 

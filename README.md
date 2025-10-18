@@ -2,6 +2,7 @@
 
 **course:** introduction to data science with python  
 **student:** teona berozashvili    
+**student id:** 31171  
 
 ---
 
@@ -60,6 +61,7 @@ this project demonstrates core skills in python and numpy through three parts:
 * about 25 % of users met all daily fitness goals on more than 80 % of days.
 * steps and active minutes showed strong positive correlation (~0.9).
 * weekend activity was slightly higher than weekday averages.
+
 
 
 
